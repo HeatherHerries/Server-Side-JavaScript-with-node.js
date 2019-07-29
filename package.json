@@ -1,0 +1,28 @@
+{
+  "name": "server-side-javascript-with-noje",
+  "version": "1.0.0",
+  "description": "Simple Http Node Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeatherHerries/Server-Side-JavaScript-with-node.js.git"
+  },
+  "keywords": [
+    "Simple",
+    "Http",
+    "Node",
+    "Server"
+  ],
+  "author": "Heather Herries",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeatherHerries/Server-Side-JavaScript-with-node.js/issues"
+  },
+  "homepage": "https://github.com/HeatherHerries/Server-Side-JavaScript-with-node.js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
